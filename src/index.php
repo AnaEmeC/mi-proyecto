@@ -1,2 +1,3 @@
 <?php
-echo "Holaaaaaaaaaaaaaa";
+include 'functions.php';
+echo saludo();
